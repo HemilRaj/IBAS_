@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956208549258",
+    "project_id": "ibas3-f5f24",
+    "storage_bucket": "ibas3-f5f24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956208549258:android:12400938fb9dd3a9474c73",
+        "android_client_info": {
+          "package_name": "com.example.ibas3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMjon_3LA2zKghzWZ3ye9q1ORSY6Tx-iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
